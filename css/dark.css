@@ -1,0 +1,399 @@
+@charset "utf-8";
+
+body.dark {
+    background-color: #1d1b1b;
+    color: #a7afbd
+}
+
+body.dark h1, body.dark h2, body.dark h3, body.dark h4, body.dark h5, body.dark h6 {
+    color: #fff
+}
+
+body.dark ::-webkit-input-placeholder {
+    color: #a0a4a9
+}
+
+body.dark :-moz-placeholder {
+    color: #a0a4a9;
+    opacity: 1
+}
+
+body.dark ::-moz-placeholder {
+    color: #a0a4a9;
+    opacity: 1
+}
+
+body.dark :-ms-input-placeholder {
+    color: #a0a4a9
+}
+
+body.dark ::-ms-input-placeholder {
+    color: #a0a4a9
+}
+
+body.dark ::placeholder {
+    color: #a0a4a9
+}
+
+body.dark {
+    scrollbar-color: #494b50 #494b50
+}
+
+body.dark:-webkit-scrollbar-track {
+    background: #494b50
+}
+
+body.dark::-webkit-scrollbar-thumb {
+    background-color: #494b50;
+    border-color: #1d1b1b
+}
+
+body.dark .sohag_modalbox .description_wrap {
+    scrollbar-color: #5c5d64 #5c5d64
+}
+
+body.dark .sohag_modalbox .description_wrap:-webkit-scrollbar-track, body.dark .sohag_fixed_content .mainbar:-webkit-scrollbar-track {
+    background: #5c5d64
+}
+
+body.dark .sohag_modalbox .description_wrap::-webkit-scrollbar-thumb, body.dark .sohag_fixed_content .mainbar::-webkit-scrollbar-thumb {
+    background-color: #5c5d64;
+    border-color: #5c5d64
+}
+
+body.dark .sohag_contact .wrapper .right .input_list ul li input {
+    color: #a0a4a9;
+    border: 1px solid rgba(255, 255, 255, .15)
+}
+
+body.dark .sohag_contact .wrapper .right .input_list ul li input:focus {
+    border: 1px solid rgba(255, 255, 255, .3)
+}
+
+body.dark .sohag_contact .message_area textarea {
+    color: #a0a4a9;
+    border: 1px solid rgba(255, 255, 255, .15)
+}
+
+body.dark .sohag_contact .message_area textarea:focus {
+    border: 1px solid rgba(255, 255, 255, .3)
+}
+
+body.dark .sohag_hero .background_shape {
+    background-color: #34353a
+}
+
+body.dark .sohag_video .circle:after {
+    background-color: rgba(255, 255, 255, .03)
+}
+
+body.dark .sohag_hero .main_menu ul li {
+    background-color: #494b50;
+    box-shadow: none
+}
+
+body.dark .sohag_hero .main_menu ul li.active {
+    background-color: #ff451b
+}
+
+body.dark .sohag_hero .main_menu ul li span {
+    color: #fff
+}
+
+body.dark .sohag_mainpart {
+    background-color: #494b50;
+    box-shadow: none
+}
+
+body.dark .sohag_about .right .bigger_text p {
+    color: #d3d7df
+}
+
+body.dark .sohag_copyright .right ul li a {
+    color: #a7afbd
+}
+
+body.dark .sohag_copyright .right ul li a:hover {
+    color: #ff451b
+}
+
+body.dark .sohag_copyright .left a {
+    color: #a7afbd
+}
+
+body.dark .sohag_copyright .left a:hover {
+    color: #ff451b
+}
+
+body.dark .sohag_resume .info_list ul li .short .job span {
+    color: #d3d7df
+}
+
+body.dark .progress_inner .background {
+    background: #777a7f
+}
+
+body.dark .circular_progress_bar .list_inner:after {
+    border-color: #777a7f
+}
+
+body.dark .progress_inner span.label {
+    color: #fff
+}
+
+body.dark .sohag_portfolio .portfolio_filter ul li a {
+    color: #fff
+}
+
+body.dark .sohag_portfolio .portfolio_filter ul li a:hover, body.dark .sohag_portfolio .portfolio_filter ul li a.current {
+    color: #ff451b
+}
+
+body.dark .sohag_services .service_list ul li .list_inner {
+    background-color: #5c5d64;
+    box-shadow: none
+}
+
+body.dark .sohag_services .service_list ul li .list_inner:hover {
+    box-shadow: none
+}
+
+body.dark .sohag_testimonials .testimonials_list .list_inner {
+    background-color: #5b5c64;
+    border-radius: 15px
+}
+
+body.dark .sohag_testimonials .testimonials_list .list_inner .in {
+    box-shadow: none
+}
+
+body.dark .sohag_news .news_list ul li .details .title a {
+    color: #fff
+}
+
+body.dark .sohag_news .news_list ul li .details .title a:hover {
+    color: #ff451b
+}
+
+body.dark .sohag_news .news_list ul li .details {
+    background-color: #5b5c64;
+    box-shadow: none
+}
+
+body.dark .sohag_modalbox .box_inner {
+    background-color: #494b50
+}
+
+body.dark .sohag_modalbox .main_details .detailbox .first {
+    color: #fff
+}
+
+body.dark .sohag_modalbox .main_details .detailbox span a {
+    color: #a7afbd
+}
+
+body.dark .sohag_hero_second .background_shape {
+    background-color: #3a3934
+}
+
+body.dark .sohag_extra_menu .list_in .center {
+    background-color: #494b50;
+    box-shadow: none
+}
+
+body.dark .sohag_extra_menu .list_in .list_icon {
+    box-shadow: none
+}
+
+body.dark .sohag_extra_menu .list_in .down_icon {
+    box-shadow: none
+}
+
+body.dark .sohag_extra_menu .list_in .center span {
+    color: #fff
+}
+
+body.dark .sohag_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .down_icon, body.dark .sohag_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .down_icon {
+    background-color: #494b50
+}
+
+body.dark .sohag_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .down_icon .svg, body.dark .sohag_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .down_icon .svg {
+    color: #848484
+}
+
+body.dark .sohag_extra_menu .menu_list .unordered .unorderest_li .details_wrapper {
+    background-color: #494b50;
+    box-shadow: none
+}
+
+body.dark .sohag_fixed_content .menubar ul li {
+    background-color: #494b50
+}
+
+body.dark .sohag_fixed_content .menubar ul li:hover {
+    background-color: #ff451b
+}
+
+body.dark .sohag_fixed_content .menubar ul li.active {
+    background-color: #ff451b
+}
+
+body.dark .sohag_fixed_content .menubar ul li span {
+    color: #fff
+}
+
+body.dark .sohag_fixed_content .infobar .extra {
+    background-color: #494b50
+}
+
+body.dark .sohag_fixed_content .mainbar {
+    background-color: #494b50
+}
+
+body.dark .sohag_fixed_content .infobar .extra .short span {
+    color: #a7afbd
+}
+
+body.dark .sohag_fixed_content .sohag_testimonials .testimonials_list .list_inner {
+    padding: 30px
+}
+
+body.dark .sohag_contact .wrapper .left ul li .list_inner .short span a {
+    color: #a7afbd
+}
+
+body.dark .sohag_contact .wrapper .left ul li .list_inner .short span a:hover {
+    color: #ff451b
+}
+
+body.dark .sohag_fixed_mainpart {
+    background-color: #3a3934
+}
+
+body.dark .sohag_sidebar_2 {
+    background-color: #494b50
+}
+
+body.dark .sohag_sidebar_2 .menu ul li:before {
+    background-color: rgba(255, 255, 255, .05)
+}
+
+body.dark .sohag_sidebar_2 .logo {
+    border-bottom-color: rgba(255, 255, 255, .05)
+}
+
+body.dark .sohag_sidebar_2 .menu ul li span {
+    color: #fff
+}
+
+body.dark .sohag_sidebar_2 .menu ul li.mleave span {
+    color: #fff
+}
+
+body.dark .sohag_animate_section .section_inner {
+    background-color: #494b50
+}
+
+body.dark .sohag_mobile_menu .mobile_menu_inner {
+    background-color: #494b50
+}
+
+body.dark .sohag_mobile_menu .dropdown {
+    background-color: #494b50
+}
+
+body.dark .sohag_mobile_menu .dropdown .dropdown_inner ul li a {
+    color: #fff
+}
+
+body.dark .hamburger-inner, body.dark .hamburger-inner:after, body.dark .hamburger-inner:before {
+    background-color: #fff !important
+}
+
+body.dark .sohag_extra_demo .background_part {
+    background-color: #3a3934
+}
+
+body.dark .sohag_extra_demo .top_shape, body.dark .sohag_extra_demo .bottom_shape {
+    background-color: #3a3934
+}
+
+body.dark .sohag_extra_demo .sohag_topbar {
+    background-color: #3a3934
+}
+
+body.dark .sohag_sidebar_3 {
+    background-color: #494b50
+}
+
+body.dark .sohag_sidebar_3 .image .main {
+    border-color: #494b50;
+    box-shadow: 18px 18px 30px rgb(255 255 255/8%)
+}
+
+body.dark .sohag_sidebar_3 .menu ul li span {
+    color: #fff
+}
+
+body.dark .sohag_sidebar_3 .menu ul li.current span, body.dark .sohag_sidebar_3 .menu ul li:hover span {
+    color: #ff451b
+}
+
+body.dark .sohag_section_new {
+    background-color: #494b50;
+    box-shadow: none
+}
+
+body.dark .sohag_topbar .wrapper .menu {
+    background-color: #494b50
+}
+
+body.dark .sohag_topbar .wrapper .menu ul li a {
+    color: #fff
+}
+
+body.dark .sohag_topbar .wrapper .menu ul li.mleave a {
+    color: #fff
+}
+
+body.dark .sohag_extra_demo_2 .top_shape, body.dark .sohag_extra_demo_2 .bottom_shape {
+    background-color: #3a3934
+}
+
+body.dark .sohag_mainpart_new_2 .main_menu ul li {
+    background-color: #494b50;
+    box-shadow: none
+}
+
+body.dark .sohag_mainpart_new_2 .main_menu ul li span {
+    color: #fff
+}
+
+body.dark .sohag_sidebar_3 .menu ul li:before {
+    background-color: rgba(255, 255, 255, .05)
+}
+
+body.dark .sohag_sidebar_3 .menu ul li:after {
+    background-color: rgba(255, 255, 255, .1)
+}
+
+@media(max-width:1040px) {
+    body.dark .sohag_topbar .wrapper .menu ul li.active a {
+        color: #ff451b
+    }
+
+    body.dark .sohag_topbar .wrapper .menu ul li a:hover {
+        color: #ff451b
+    }
+
+    body.dark .sohag_topbar .wrapper .menu {
+        box-shadow: 0 0 30px rgb(255 255 255/4%)
+    }
+}
+
+@media(max-width:480px) {
+    body.dark .sohag_news .news_list ul li .details {
+        background: 0 0;
+        box-shadow: none
+    }
+}
